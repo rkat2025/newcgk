@@ -9,7 +9,7 @@ const Logo: React.FC<LogoProps> = ({ className = "h-12" }) => {
   return (
     <div className={`flex items-center gap-3 ${className}`}>
       <img 
-        src="https://img.icons8.com/color/96/owl.png" 
+        src="https://drive.google.com/file/d/10a8wGTa6sGwduN5p71o6FcHAVLKCsIku/view?usp=sharing" 
         alt="Cyber Gyan Kosh Logo" 
         className="h-full w-auto object-contain"
       />
