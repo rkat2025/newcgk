@@ -60,8 +60,9 @@ const Hero: React.FC<HeroProps> = ({ onExploreClick, onEnrollClick }) => {
             <div className="absolute w-80 h-80 bg-[#6750A4]/20 rounded-full blur-[100px] -z-10 animate-pulse"></div>
             
             <div className="relative group p-4 transform hover:scale-105 transition-transform duration-500 ease-out">
+              import logo from '../logo.png';
               <img 
-                src="./logo.png" 
+                src={logo}"../logo.png" 
                 alt="Cyber Gyan Kosh Logo" 
                 className="w-full max-w-[420px] h-auto object-contain drop-shadow-[0_20px_50px_rgba(103,80,164,0.3)]"
               />
