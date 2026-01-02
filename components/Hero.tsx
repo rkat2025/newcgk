@@ -61,7 +61,7 @@ const Hero: React.FC<HeroProps> = ({ onExploreClick, onEnrollClick }) => {
             
             <div className="relative group p-4 transform hover:scale-105 transition-transform duration-500 ease-out">
               <img 
-                src="/components/logo.png" 
+                src="https://github.com/rkat2025/newcgk/blob/main/components/logo.png?raw=true" 
                 alt="Cyber Gyan Kosh Logo" 
                 className="w-full max-w-[420px] h-auto object-contain drop-shadow-[0_20px_50px_rgba(103,80,164,0.3)]"
               />
