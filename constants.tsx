@@ -158,18 +158,18 @@ export const EXPERTS: Expert[] = [
   },
   {
     name: "Advocate Lasitha Manikath",
-    role: "Cyber Expert",
+    role: "Cyber Law Expert | PhD Scholar",
     specialty: "AI Ethics & Governance",
-    bio: "Focuses on the intersection of human rights and artificial intelligence, ensuring students use AI tools with a strong moral compass.",
+    bio: "Law is often the last line of defense in the digital age. Having transitioned from the fast-paced world of international banking to advanced research at CUSAT and NFSU, I have seen firsthand how technology can outpace our protections. My work focuses on AI Governance and Human Rights—not just as legal theories, but as essential tools for the next generation. My mission is to ensure that as you master Cyber Law, you do so with a strong moral compass, learning to govern the technologies that shape our world rather than just reacting to them."",
     image: "https://github.com/rkat2025/imgs/blob/main/lasitha.jpg?raw=true?auto=format&fit=crop&q=80&w=400",
     linkedin: "https://www.linkedin.com/in/lasitha-manikath-76353b113",
     email: "Lasithamanikath@gmail.com"
   },
   {
     name: "Advocate Swetha T",
-    role: "Cyber Expert",
+    role: "Cyber Law Expert",
     specialty: "Online Child Safety",
-    bio: "Dedicated to protecting children from predatory behavior online. Swetha develops our student-centric safety protocols.",
+    bio: "Swetha T is a dedicated Cyber Expert and Legal Advocate specializing in the protection of minors in the digital ecosystem. An alumna of the National Forensic Sciences University (NFSU), Swetha combines forensic insights with legal rigor to combat predatory behavior online.  she leads the development of our student-centric safety protocols, ensuring that our curriculum doesn’t just teach the law, but actively builds a shield around the most vulnerable users of the internet.",
     image: "https://github.com/rkat2025/imgs/blob/main/swetha2.jpg.jpeg?raw=true?auto=format&fit=crop&q=80&w=400",
     linkedin: "https://www.linkedin.com/in/swetha-thirunavakkarasu",
     email: "swethathirunavakkarasu@gmail.com"
@@ -178,7 +178,7 @@ export const EXPERTS: Expert[] = [
     name: "Advocate Ritik Khurana",
     role: "Cyber Crime Expert",
     specialty: "Cyber Crime Investigation",
-    bio: "An advoacte who brings technical depth to our courses, teaching students about encryption, firewalls, and digital security.",
+    bio: "Ritik Khurana is an Advocate specializing in Cyber Law, Data Privacy, and Technology Law, with a strong focus on digital forensics, cybersecurity, and regulatory compliance. His work lies at the intersection of law and emerging technologies, including AI governance and responsible innovation. He actively engage in legal research, policy analysis, and academic discussions on evolving digital regulations. With a commitment to protecting digital rights, he aim to help individuals and organizations navigate complex technology-driven legal challenges.",
     image: "https://github.com/rkat2025/imgs/blob/main/ritik.png?raw=true?auto=format&fit=crop&q=80&w=400",
     linkedin: "https://www.linkedin.com/in/rkkhurana",
     email: "adv.rkhurana@gmail.com"
