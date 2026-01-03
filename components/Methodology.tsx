@@ -11,7 +11,7 @@ const Methodology: React.FC<MethodologyProps> = ({ onEnrollClick }) => {
     { title: "Age-appropriate language", icon: <MessageSquare size={24} />, desc: "Simplified concepts without legal jargon." },
     { title: "Real-life examples", icon: <CheckCircle2 size={24} />, desc: "Relatable scenarios students face daily." },
     { title: "Interactive sessions", icon: <BrainCircuit size={24} />, desc: "Engagement through activities and quizzes." },
-    { title: "Case studies", icon: <BookOpenCheck size={24} />, desc: "Real courtroom examples curated by experts." }
+    { title: "Case studies", icon: <BookOpenCheck size={24} />, desc: "Real life case examples explained in easy way." }
   ];
 
   return (
