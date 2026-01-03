@@ -142,7 +142,7 @@ export const EXPERTS: Expert[] = [
   {
     name: "Advocate Mukul Jha",
     role: "Founder & CEO",
-    specialty: "Cyber Law & Litigation",
+    specialty: "Cyber Law Expert",
     bio: "A distinguished High Court Advocate with over a decade of experience in cyber crime litigation and digital rights. Mukul envisions a legally-aware digital India.",
     image: "https://github.com/rkat2025/newcgk/blob/main/components/mukul.jpeg?raw=true?auto=format&fit=crop&q=80&w=400"
   },
@@ -169,9 +169,9 @@ export const EXPERTS: Expert[] = [
   },
   {
     name: "Ritik Khurana",
-    role: "Cyber Expert",
-    specialty: "Technical Security & VAPT",
-    bio: "A white-hat hacker who brings technical depth to our courses, teaching students about encryption, firewalls, and secure coding.",
+    role: "Cyber Crime Expert",
+    specialty: "Technical Security & Investigation",
+    bio: "An Advocate who brings technical depth to our courses, teaching students about encryption, firewalls, and digital security.",
     image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=400"
   }
 ];
