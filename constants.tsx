@@ -144,7 +144,7 @@ export const EXPERTS: Expert[] = [
     role: "Founder & CEO",
     specialty: "Cyber Law Expert",
     bio: "A distinguished High Court Advocate with over a decade of experience in cyber crime litigation and digital rights. Mukul envisions a legally-aware digital India.",
-    image: "https://github.com/rkat2025/newcgk/blob/main/components/mukul.jpeg?raw=true?auto=format&fit=crop&q=80&w=400"
+    image: "https://github.com/rkat2025/imgs/blob/main/mukul.jpeg?raw=true?raw=true?auto=format&fit=crop&q=80&w=400"
   },
   {
     name: "Kajal Ranjna",
