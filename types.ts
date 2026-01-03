@@ -1,4 +1,3 @@
-
 export interface CourseLevel {
   id: string;
   title: string;
