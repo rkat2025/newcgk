@@ -142,7 +142,7 @@ export const EXPERTS: Expert[] = [
     name: "Advocate Mukul Jha",
     role: "Founder & CEO",
     specialty: "Cyber Law & Litigation",
-    bio: "Advocate Mukul Jha is a cyber law practitioner and educator dedicated to spreading cyber awareness and digital responsibility. <p> Through Cyber Gyan Kosh, he aims to simplify complex cyber laws and technologies for students and young learners, helping them become safe, informed, and responsible digital citizens in today’s technology-driven world.",
+    bio: "Advocate Mukul Jha is a cyber law practitioner and educator dedicated to spreading cyber awareness and digital responsibility. <p> Through Cyber Gyan Kosh, he aims to simplify complex cyber laws and technologies for students and young learners, helping them become safe, informed, and responsible digital citizens in today’s technology-driven world.",</p>
     image: "https://github.com/rkat2025/imgs/blob/main/mukul.jpeg?raw=true?auto=format&fit=crop&q=80&w=400",
     linkedin: "https://www.linkedin.com/in/mukuljha565",
     email: "mukuljha565@gmail.com"
