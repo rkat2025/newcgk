@@ -13,6 +13,13 @@ const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
     if (onNavigate) onNavigate(v);
   };
 
+  const socialLinks = [
+    { icon: Facebook, href: "https://facebook.com/cybergyankosh", label: "Facebook" },
+    { icon: Twitter, href: "https://twitter.com/cybergyankosh", label: "Twitter" },
+    { icon: Linkedin, href: "https://linkedin.com/company/steppu-educare", label: "LinkedIn" },
+    { icon: Instagram, href: "https://instagram.com/cybergyankosh", label: "Instagram" },
+  ];
+
   return (
     <footer className="bg-[#F3EDF7] pt-24 pb-12 rounded-t-[64px] relative overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
