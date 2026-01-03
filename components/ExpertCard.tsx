@@ -41,14 +41,6 @@ const ExpertCard: React.FC<{ expert: Expert }> = ({ expert }) => {
             <Mail size={18} />
           </a>
         </div>
-        <div className="flex gap-4">
-          <button className="p-3 rounded-full bg-[#F3EDF7] text-[#6750A4] hover:bg-[#6750A4] hover:text-white transition-all">
-            <Linkedin size={18} />
-          </button>
-          <button className="p-3 rounded-full bg-[#F3EDF7] text-[#6750A4] hover:bg-[#6750A4] hover:text-white transition-all">
-            <Mail size={18} />
-          </button>
-        </div>
       </div>
     </div>
   );
