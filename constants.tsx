@@ -145,6 +145,8 @@ export const EXPERTS: Expert[] = [
     specialty: "Cyber Law Expert",
     bio: "A distinguished High Court Advocate with over a decade of experience in cyber crime litigation and digital rights. Mukul envisions a legally-aware digital India.",
     image: "https://github.com/rkat2025/imgs/blob/main/mukul.jpeg?raw=true?raw=true?auto=format&fit=crop&q=80&w=400"
+    linkedin: "https://www.linkedin.com/in/advocate-mukul-jha",
+    email: "mukul@cybergyankosh.com"
   },
   {
     name: "Kajal Ranjna",
@@ -152,6 +154,8 @@ export const EXPERTS: Expert[] = [
     specialty: "Digital Forensics",
     bio: "Expert in investigating digital evidence and cyber-crime patterns. Kajal helps students understand the 'breadcrumbs' they leave online.",
     image: "https://github.com/rkat2025/imgs/blob/main/kajal..jpg?raw=true?auto=format&fit=crop&q=80&w=400"
+    linkedin: "https://www.linkedin.com/in/advocate-mukul-jha",
+    email: "mukul@cybergyankosh.com"
   },
   {
     name: "Lasitha Manikath",
@@ -159,13 +163,17 @@ export const EXPERTS: Expert[] = [
     specialty: "AI Ethics & Governance",
     bio: "Focuses on the intersection of human rights and artificial intelligence, ensuring students use AI tools with a strong moral compass.",
     image: "https://github.com/rkat2025/imgs/blob/main/lasitha.jpg?raw=true?auto=format&fit=crop&q=80&w=400"
+    linkedin: "https://www.linkedin.com/in/advocate-mukul-jha",
+    email: "mukul@cybergyankosh.com"
   },
   {
-    name: "Swetha",
+    name: "Swetha T",
     role: "Cyber Expert",
     specialty: "Online Child Safety",
     bio: "Dedicated to protecting children from predatory behavior online. Swetha develops our student-centric safety protocols.",
     image: "https://github.com/rkat2025/imgs/blob/main/swetha2.jpg.jpeg?raw=true?auto=format&fit=crop&q=80&w=400"
+    linkedin: "https://www.linkedin.com/in/advocate-mukul-jha",
+    email: "mukul@cybergyankosh.com"
   },
   {
     name: "Ritik Khurana",
