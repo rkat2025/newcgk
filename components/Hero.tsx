@@ -30,7 +30,7 @@ const Hero: React.FC<HeroProps> = ({ onExploreClick, onEnrollClick }) => {
             </h1>
             
             <p className="text-xl text-[#49454F] leading-relaxed max-w-xl">
-              Empowering students with essential knowledge of Cyber Law, Artificial Intelligence, and Cyber Security. Curated by <b className="text-[#1C1B1F]">Adv Mukul Jha and Team</b>.
+              Empowering students with essential knowledge of Cyber Law, Artificial Intelligence, and Cyber Security. 
             </p>
             
             <div className="flex flex-col sm:flex-row gap-5">
