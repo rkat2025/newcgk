@@ -166,13 +166,13 @@ export const EXPERTS: Expert[] = [
     email: "lasitha@cybergyankosh.com"
   },
   {
-    name: "Swetha",
+    name: "Swetha T",
     role: "Cyber Expert",
     specialty: "Online Child Safety",
     bio: "Dedicated to protecting children from predatory behavior online. Swetha develops our student-centric safety protocols.",
-    image: "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?auto=format&fit=crop&q=80&w=400",
-    linkedin: "https://www.linkedin.com/in/swetha-cybersafety",
-    email: "swetha@cybergyankosh.com"
+    image: "https://github.com/rkat2025/imgs/blob/main/swetha2.jpg.jpeg?raw=true?auto=format&fit=crop&q=80&w=400",
+    linkedin: "https://www.linkedin.com/in/swetha-thirunavakkarasu",
+    email: "swethathirunavakkarasu@gmail.com"
   },
   {
     name: "Ritik Khurana",
