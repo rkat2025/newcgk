@@ -173,6 +173,8 @@ export const EXPERTS: Expert[] = [
     specialty: "Technical Security & Investigation",
     bio: "An Advocate who brings technical depth to our courses, teaching students about encryption, firewalls, and digital security.",
     image: "https://github.com/rkat2025/imgs/blob/main/ritik.png?raw=true?auto=format&fit=crop&q=80&w=400"
+    linkedin: "https://www.linkedin.com/in/ritikkhurana/",
+    email: "ritik@cybergyankosh.com"
   }
 ];
 
