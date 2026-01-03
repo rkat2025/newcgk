@@ -138,7 +138,6 @@ export const QUIZ_QUESTIONS: QuizQuestion[] = [
 ];
 
 export const EXPERTS: Expert[] = [
-  // ... (keep current experts)
   {
     name: "Advocate Mukul Jha",
     role: "Founder & CEO",
