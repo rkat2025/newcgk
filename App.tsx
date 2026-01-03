@@ -58,7 +58,7 @@ const App: React.FC = () => {
               <div className="text-center mb-16">
                 <h1 className="text-4xl md:text-6xl font-extrabold text-[#1C1B1F] mb-6">Our Experts</h1>
                 <p className="text-xl text-[#49454F] max-w-2xl mx-auto leading-relaxed">
-                  Learn from qualified High Court Advocates and Cyber Forensics specialists with decades of combined experience.
+                  Learn from qualified & experienced Advocates and Cyber law specialists with decades of combined experience.
                 </p>
               </div>
               <div className="flex flex-col gap-12">
