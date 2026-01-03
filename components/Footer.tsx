@@ -53,7 +53,7 @@ const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
                 <div className="w-10 h-10 bg-[#6750A4]/10 rounded-xl flex items-center justify-center text-[#6750A4]">
                   <Mail size={20} />
                 </div>
-                <span>info@cybergyankosh.com</span>
+                <span>cybergyankosh@gmail.com</span>
               </li>
               <li className="flex items-center gap-4">
                 <div className="w-10 h-10 bg-[#6750A4]/10 rounded-xl flex items-center justify-center text-[#6750A4]">
