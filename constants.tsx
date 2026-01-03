@@ -160,7 +160,7 @@ export const EXPERTS: Expert[] = [
     name: "Advocate Lasitha Manikath",
     role: "Cyber Law Expert | PhD Scholar",
     specialty: "AI Ethics & Governance",
-    bio: "Law is often the last line of defense in the digital age. Having transitioned from the fast-paced world of international banking to advanced research at CUSAT and NFSU, I have seen firsthand how technology can outpace our protections. My work focuses on AI Governance and Human Rights—not just as legal theories, but as essential tools for the next generation. My mission is to ensure that as you master Cyber Law, you do so with a strong moral compass, learning to govern the technologies that shape our world rather than just reacting to them."",
+    bio: "Law is often the last line of defense in the digital age. Having transitioned from the fast-paced world of international banking to advanced research at CUSAT and NFSU, I have seen firsthand how technology can outpace our protections. My work focuses on AI Governance and Human Rights—not just as legal theories, but as essential tools for the next generation. My mission is to ensure that as you master Cyber Law, you do so with a strong moral compass, learning to govern the technologies that shape our world rather than just reacting to them.",
     image: "https://github.com/rkat2025/imgs/blob/main/lasitha.jpg?raw=true?auto=format&fit=crop&q=80&w=400",
     linkedin: "https://www.linkedin.com/in/lasitha-manikath-76353b113",
     email: "Lasithamanikath@gmail.com"
