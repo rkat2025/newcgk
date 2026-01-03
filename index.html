@@ -41,7 +41,7 @@
         color: #1C1B1F;
       }
       .blob {
-        position: absolute;
+         position: absolute;
         filter: blur(80px);
         z-index: -1;
         opacity: 0.15;
@@ -51,6 +51,13 @@
         0% { transform: translate(0, 0) scale(1); }
         50% { transform: translate(30px, -50px) scale(1.1); }
         100% { transform: translate(-20px, 20px) scale(0.9); }
+      }
+      @keyframes float-logo {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-30px); }
+      }
+      .animate-float-logo {
+        animation: float-logo 6s ease-in-out infinite;
       }
       .glass-card {
         background: rgba(243, 237, 247, 0.7);
