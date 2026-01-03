@@ -28,6 +28,8 @@ export interface Expert {
   bio: string;
   image: string;
   specialty: string;
+  linkedin?: string;
+  email?: string;
 }
 
 export type ViewState = 'home' | 'courses' | 'experts' | 'methodology' | 'faq' | 'certificate' | 'contact' | 'enroll' | 'quiz';
