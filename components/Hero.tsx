@@ -54,12 +54,13 @@ const Hero: React.FC<HeroProps> = ({ onExploreClick, onEnrollClick }) => {
             </p>
           </div>
 
+
           {/* Right Column: Hero Visual - Clean Logo Only */}
           <div className="md:col-span-5 relative flex items-center justify-center">
             {/* Ambient Glow behind the logo */}
             <div className="absolute w-80 h-80 bg-[#6750A4]/20 rounded-full blur-[100px] -z-10 animate-pulse"></div>
             
-            <div className=""relative group p-4 transform transition-all duration-500 ease-out animate-float-logo">
+            <div className="relative group p-4 transform transition-all duration-500 ease-out animate-float-logo">
               <img 
                 src="https://github.com/rkat2025/imgs/blob/main/54645638036.png?raw=true" 
                 alt="Cyber Gyan Kosh Logo" 
