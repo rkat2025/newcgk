@@ -151,7 +151,7 @@ export const EXPERTS: Expert[] = [
     name: "Advocate Kajal Ranjna",
     role: "Cyber, Data Privacy & Compliance ",
     specialty: "Digital Forensics",
-    bio: "Specialises in investigating digital evidence and cyber crime patterns. Kajal helps understand the 'breadcrumbs' (digital footprint) left online, ensuring healthy digital interaction.",
+    bio: "Specialises in investigating digital evidence and cyber crime patterns. Kajal helps understand the 'breadcrumbs' [digital footprint] left online, ensuring healthy digital interaction.",
     image: "https://github.com/rkat2025/imgs/blob/main/kajal..jpg?raw=true?auto=format&fit=crop&q=80&w=400",
     linkedin: "https://www.linkedin.com/in/kajalranjna",
     email: "ranjnakajal@gmail.com"
