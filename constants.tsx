@@ -154,8 +154,8 @@ export const EXPERTS: Expert[] = [
     specialty: "Digital Forensics",
     bio: "Expert in investigating digital evidence and cyber-crime patterns. Kajal helps students understand the 'breadcrumbs' they leave online.",
     image: "https://github.com/rkat2025/imgs/blob/main/kajal..jpg?raw=true?auto=format&fit=crop&q=80&w=400"
-    linkedin: "https://www.linkedin.com/in/advocate-mukul-jha",
-    email: "mukul@cybergyankosh.com"
+    linkedin: "https://www.linkedin.com/in/advocate-kajal",
+    email: "kal@cybergyankosh.com"
   },
   {
     name: "Lasitha Manikath",
@@ -163,8 +163,8 @@ export const EXPERTS: Expert[] = [
     specialty: "AI Ethics & Governance",
     bio: "Focuses on the intersection of human rights and artificial intelligence, ensuring students use AI tools with a strong moral compass.",
     image: "https://github.com/rkat2025/imgs/blob/main/lasitha.jpg?raw=true?auto=format&fit=crop&q=80&w=400"
-    linkedin: "https://www.linkedin.com/in/advocate-mukul-jha",
-    email: "mukul@cybergyankosh.com"
+    linkedin: "https://www.linkedin.com/in/advocate-lasitha",
+    email: "las@cybergyankosh.com"
   },
   {
     name: "Swetha T",
@@ -172,8 +172,8 @@ export const EXPERTS: Expert[] = [
     specialty: "Online Child Safety",
     bio: "Dedicated to protecting children from predatory behavior online. Swetha develops our student-centric safety protocols.",
     image: "https://github.com/rkat2025/imgs/blob/main/swetha2.jpg.jpeg?raw=true?auto=format&fit=crop&q=80&w=400"
-    linkedin: "https://www.linkedin.com/in/advocate-mukul-jha",
-    email: "mukul@cybergyankosh.com"
+    linkedin: "https://www.linkedin.com/in/advocate-sett",
+    email: "swt@cybergyankosh.com"
   },
   {
     name: "Ritik Khurana",
@@ -181,7 +181,7 @@ export const EXPERTS: Expert[] = [
     specialty: "Technical Security & Investigation",
     bio: "An Advocate who brings technical depth to our courses, teaching students about encryption, firewalls, and digital security.",
     image: "https://github.com/rkat2025/imgs/blob/main/ritik.png?raw=true?auto=format&fit=crop&q=80&w=400"
-    linkedin: "https://www.linkedin.com/in/ritikkhurana/",
+    linkedin: "https://www.linkedin.com/in/rkkhurana/",
     email: "ritik@cybergyankosh.com"
   }
 ];
