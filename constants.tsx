@@ -165,7 +165,7 @@ export const EXPERTS: Expert[] = [
     role: "Cyber Expert",
     specialty: "Online Child Safety",
     bio: "Dedicated to protecting children from predatory behavior online. Swetha develops our student-centric safety protocols.",
-    image: "https://github.com/rkat2025/imgs/blob/main/swetha.jpg?raw=true?auto=format&fit=crop&q=80&w=400"
+    image: "https://github.com/rkat2025/imgs/blob/main/swetha2.jpg.jpeg?raw=true?auto=format&fit=crop&q=80&w=400"
   },
   {
     name: "Ritik Khurana",
