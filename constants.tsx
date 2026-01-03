@@ -158,7 +158,7 @@ export const EXPERTS: Expert[] = [
     role: "Cyber Expert",
     specialty: "AI Ethics & Governance",
     bio: "Focuses on the intersection of human rights and artificial intelligence, ensuring students use AI tools with a strong moral compass.",
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=400"
+    image: "https://github.com/rkat2025/imgs/blob/main/lasitha.jpg?raw=true?auto=format&fit=crop&q=80&w=400"
   },
   {
     name: "Swetha",
