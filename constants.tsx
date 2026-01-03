@@ -142,10 +142,10 @@ export const EXPERTS: Expert[] = [
     name: "Advocate Mukul Jha",
     role: "Founder & CEO",
     specialty: "Cyber Law & Litigation",
-    bio: "A distinguished High Court Advocate with over a decade of experience in cyber crime litigation and digital rights. Mukul envisions a legally-aware digital India.",
+    bio: "Advocate Mukul Jha is a cyber law practitioner and educator dedicated to spreading cyber awareness and digital responsibility. <p> Through Cyber Gyan Kosh, he aims to simplify complex cyber laws and technologies for students and young learners, helping them become safe, informed, and responsible digital citizens in today’s technology-driven world.",
     image: "https://github.com/rkat2025/imgs/blob/main/mukul.jpeg?raw=true?auto=format&fit=crop&q=80&w=400",
-    linkedin: "https://www.linkedin.com/in/advocate-mukul-jha",
-    email: "mukul@cybergyankosh.com"
+    linkedin: "https://www.linkedin.com/in/mukuljha565",
+    email: "mukuljha565@gmail.com"
   },
   {
     name: "Advocate Kajal Ranjna",
@@ -153,8 +153,8 @@ export const EXPERTS: Expert[] = [
     specialty: "Digital Forensics",
     bio: "Expert in investigating digital evidence and cyber-crime patterns. Kajal helps students understand the 'breadcrumbs' they leave online.",
     image: "https://github.com/rkat2025/imgs/blob/main/kajal..jpg?raw=true?auto=format&fit=crop&q=80&w=400",
-    linkedin: "https://www.linkedin.com/in/kajal-ranjna-forensics",
-    email: "kajal@cybergyankosh.com"
+    linkedin: "https://www.linkedin.com/in/kajalranjna",
+    email: "ranjnakajal@gmail.com"
   },
   {
     name: "Advocate Lasitha Manikath",
