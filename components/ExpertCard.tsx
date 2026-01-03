@@ -24,6 +24,24 @@ const ExpertCard: React.FC<{ expert: Expert }> = ({ expert }) => {
           {expert.bio}
         </p>
         <div className="flex gap-4">
+          <a 
+            href={expert.linkedin || "#"} 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="p-3 rounded-full bg-[#F3EDF7] text-[#6750A4] hover:bg-[#6750A4] hover:text-white transition-all focus:outline-none focus:ring-2 focus:ring-[#6750A4]"
+            aria-label={`${expert.name}'s LinkedIn Profile`}
+          >
+            <Linkedin size={18} />
+          </a>
+          <a 
+            href={expert.email ? `mailto:${expert.email}` : "#"} 
+            className="p-3 rounded-full bg-[#F3EDF7] text-[#6750A4] hover:bg-[#6750A4] hover:text-white transition-all focus:outline-none focus:ring-2 focus:ring-[#6750A4]"
+            aria-label={`Email ${expert.name}`}
+          >
+            <Mail size={18} />
+          </a>
+        </div>
+        <div className="flex gap-4">
           <button className="p-3 rounded-full bg-[#F3EDF7] text-[#6750A4] hover:bg-[#6750A4] hover:text-white transition-all">
             <Linkedin size={18} />
           </button>
