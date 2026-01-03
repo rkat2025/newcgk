@@ -273,7 +273,7 @@ export const FAQS: FAQ[] = [
   {
     question: "Is this course suitable for school students?",
     category: "General",
-    answer: "Yes. All content is age-appropriate, simplified, and designed specifically for school-level understanding by Adv Mukul Jha and Team. We avoid complex legal jargon."
+    answer: "Yes. All content is age-appropriate, simplified, and designed specifically for school-level understanding by Cyber Gyan Kosh Team. We avoid complex legal jargon."
   },
   {
     question: "Does the course teach hacking?",
@@ -331,7 +331,7 @@ export const FAQS: FAQ[] = [
     answer: "We highlight emerging career paths like AI Ethics Auditors and Digital Rights Advocates, showing students that the future of tech is as much about governance as it is about development."
   },
   {
-    question: "What practical tips are provided for securing home Wi-Fi and IoT devices?",
+    question: "What practical tips are provided for securing digital and IoT devices?",
     category: "Security",
     answer: "Students learn basic network hygiene, such as changing default router passwords, setting up guest networks, and understanding the privacy risks of smart home devices like voice assistants."
   }
