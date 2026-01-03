@@ -184,53 +184,6 @@ export const EXPERTS: Expert[] = [
     email: "ritik@cybergyankosh.com"
   }
 ];
-export const EXPERTS: Expert[] = [
-  {
-    name: "Advocate Mukul Jha",
-    role: "Founder & CEO",
-    specialty: "Cyber Law Expert",
-    bio: "A distinguished High Court Advocate with over a decade of experience in cyber crime litigation and digital rights. Mukul envisions a legally-aware digital India.",
-    image: "https://github.com/rkat2025/imgs/blob/main/mukul.jpeg?raw=true?raw=true?auto=format&fit=crop&q=80&w=400"
-    linkedin: "https://www.linkedin.com/in/advocate-mukul-jha",
-    email: "mukul@cybergyankosh.com"
-  },
-  {
-    name: "Kajal Ranjna",
-    role: "Senior Cyber Expert",
-    specialty: "Digital Forensics",
-    bio: "Expert in investigating digital evidence and cyber-crime patterns. Kajal helps students understand the 'breadcrumbs' they leave online.",
-    image: "https://github.com/rkat2025/imgs/blob/main/kajal..jpg?raw=true?auto=format&fit=crop&q=80&w=400"
-    linkedin: "https://www.linkedin.com/in/advocate-kajal",
-    email: "kal@cybergyankosh.com"
-  },
-  {
-    name: "Lasitha Manikath",
-    role: "Cyber Expert",
-    specialty: "AI Ethics & Governance",
-    bio: "Focuses on the intersection of human rights and artificial intelligence, ensuring students use AI tools with a strong moral compass.",
-    image: "https://github.com/rkat2025/imgs/blob/main/lasitha.jpg?raw=true?auto=format&fit=crop&q=80&w=400"
-    linkedin: "https://www.linkedin.com/in/advocate-lasitha",
-    email: "las@cybergyankosh.com"
-  },
-  {
-    name: "Swetha T",
-    role: "Cyber Expert",
-    specialty: "Online Child Safety",
-    bio: "Dedicated to protecting children from predatory behavior online. Swetha develops our student-centric safety protocols.",
-    image: "https://github.com/rkat2025/imgs/blob/main/swetha2.jpg.jpeg?raw=true?auto=format&fit=crop&q=80&w=400"
-    linkedin: "https://www.linkedin.com/in/advocate-sett",
-    email: "swt@cybergyankosh.com"
-  },
-  {
-    name: "Ritik Khurana",
-    role: "Cyber Crime Expert",
-    specialty: "Technical Security & Investigation",
-    bio: "An Advocate who brings technical depth to our courses, teaching students about encryption, firewalls, and digital security.",
-    image: "https://github.com/rkat2025/imgs/blob/main/ritik.png?raw=true?auto=format&fit=crop&q=80&w=400"
-    linkedin: "https://www.linkedin.com/in/rkkhurana/",
-    email: "ritik@cybergyankosh.com"
-  }
-];
 
 export const COURSE_LEVELS: CourseLevel[] = [
   {
