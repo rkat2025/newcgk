@@ -141,6 +141,53 @@ export const EXPERTS: Expert[] = [
   {
     name: "Advocate Mukul Jha",
     role: "Founder & CEO",
+    specialty: "Cyber Law & Litigation",
+    bio: "A distinguished High Court Advocate with over a decade of experience in cyber crime litigation and digital rights. Mukul envisions a legally-aware digital India.",
+    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=400",
+    linkedin: "https://www.linkedin.com/in/advocate-mukul-jha",
+    email: "mukul@cybergyankosh.com"
+  },
+  {
+    name: "Kajal Ranjna",
+    role: "Senior Cyber Expert",
+    specialty: "Digital Forensics",
+    bio: "Expert in investigating digital evidence and cyber-crime patterns. Kajal helps students understand the 'breadcrumbs' they leave online.",
+    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400",
+    linkedin: "https://www.linkedin.com/in/kajal-ranjna-forensics",
+    email: "kajal@cybergyankosh.com"
+  },
+  {
+    name: "Lasitha Manikath",
+    role: "Cyber Expert",
+    specialty: "AI Ethics & Governance",
+    bio: "Focuses on the intersection of human rights and artificial intelligence, ensuring students use AI tools with a strong moral compass.",
+    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=400",
+    linkedin: "https://www.linkedin.com/in/lasitha-manikath",
+    email: "lasitha@cybergyankosh.com"
+  },
+  {
+    name: "Swetha",
+    role: "Cyber Expert",
+    specialty: "Online Child Safety",
+    bio: "Dedicated to protecting children from predatory behavior online. Swetha develops our student-centric safety protocols.",
+    image: "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?auto=format&fit=crop&q=80&w=400",
+    linkedin: "https://www.linkedin.com/in/swetha-cybersafety",
+    email: "swetha@cybergyankosh.com"
+  },
+  {
+    name: "Ritik Khurana",
+    role: "Cyber Expert",
+    specialty: "Technical Security & VAPT",
+    bio: "A white-hat hacker who brings technical depth to our courses, teaching students about encryption, firewalls, and secure coding.",
+    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=400",
+    linkedin: "https://www.linkedin.com/in/ritik-khurana-vapt",
+    email: "ritik@cybergyankosh.com"
+  }
+];
+export const EXPERTS: Expert[] = [
+  {
+    name: "Advocate Mukul Jha",
+    role: "Founder & CEO",
     specialty: "Cyber Law Expert",
     bio: "A distinguished High Court Advocate with over a decade of experience in cyber crime litigation and digital rights. Mukul envisions a legally-aware digital India.",
     image: "https://github.com/rkat2025/imgs/blob/main/mukul.jpeg?raw=true?raw=true?auto=format&fit=crop&q=80&w=400"
