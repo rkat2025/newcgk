@@ -1,0 +1,26 @@
+# Cyber Gyan Kosh
+
+Cyber Gyan Kosh is India's premier educational platform focusing on Cyber Law, AI awareness, and digital safety for school students. It is a legal literacy program curated by Advocate Mukul Jha and his team of experts, powered by Steppu Educare.
+
+## Core Mission
+To empower the next generation (K-12 students) with essential knowledge of Indian Cyber Laws (IT Act 2000, DPDP Act 2023), AI ethics, and practical digital hygiene.
+
+## Educational Framework
+The program is divided into three comprehensive levels:
+- **Level 1: Digital Smart Citizens (Classes 6–8)**: Focuses on digital footprints, cyber-bullying, and basic safety.
+- **Level 2: Cyber Aware Generation (Classes 9–10)**: Focuses on Indian Cyber Law, hacking prevention, and ethical AI use.
+- **Level 3: Future-Ready Digital Leaders (Classes 11–12)**: Focuses on advanced litigation, data protection, and career paths in cyber forensics.
+
+## Key Expertise
+- **Advocate Mukul Jha**: Founder, High Court Advocate, and Cyber Law specialist.
+- **Expertise Areas**: Digital Forensics, AI Governance, Online Child Safety, VAPT (Vulnerability Assessment and Penetration Testing).
+
+## Key Terms Defined
+- **Phishing**: Deceptive attempts to steal credentials.
+- **Deepfakes**: AI-manipulated synthetic media.
+- **Digital Footprint**: The permanent trail of data left by users online.
+
+## Contact Information
+- **Website**: https://cybergyankosh.com
+- **Email**: cybergyankosh@gmail.com
+- **Organization**: Steppu Educare
