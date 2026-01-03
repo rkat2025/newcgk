@@ -56,7 +56,7 @@ const About: React.FC<AboutProps> = ({ onExpertsClick }) => {
           <div className="max-w-xl">
             <h3 className="text-3xl font-bold mb-4">A Professional Touch</h3>
             <p className="text-lg opacity-90 leading-relaxed">
-              Cyber Gyan Kosh is the official legal literacy program by <b>Steppu Educare</b>, curated by <b>Adv Mukul Jha and Team</b> and supported by a team of cyber veterans. We bridge the gap between technology use and legal understanding.
+              Cyber Gyan Kosh is the official legal literacy program by <b>Steppu Educare</b>, curated by <b>Adv Mukul Jha</b>. We bridge the gap between technology use and legal understanding.
             </p>
           </div>
           <button 
