@@ -149,9 +149,9 @@ export const EXPERTS: Expert[] = [
   },
   {
     name: "Advocate Kajal Ranjna",
-    role: "Senior Cyber Expert",
+    role: "Cyber, Data Privacy & Compliance ",
     specialty: "Digital Forensics",
-    bio: "Expert in investigating digital evidence and cyber-crime patterns. Kajal helps students understand the 'breadcrumbs' they leave online.",
+    bio: "Specialises in investigating digital evidence and cyber crime patterns. Kajal helps understand the 'breadcrumbs' ( digital footprint) left online, ensuring healthy digital interaction.",
     image: "https://github.com/rkat2025/imgs/blob/main/kajal..jpg?raw=true?auto=format&fit=crop&q=80&w=400",
     linkedin: "https://www.linkedin.com/in/kajalranjna",
     email: "ranjnakajal@gmail.com"
@@ -162,7 +162,7 @@ export const EXPERTS: Expert[] = [
     specialty: "AI Ethics & Governance",
     bio: "Focuses on the intersection of human rights and artificial intelligence, ensuring students use AI tools with a strong moral compass.",
     image: "https://github.com/rkat2025/imgs/blob/main/lasitha.jpg?raw=true?auto=format&fit=crop&q=80&w=400",
-    linkedin: "https://www.linkedin.com/in/lasitha-manikath",
+    linkedin: "https://www.linkedin.com/in/lasitha-manikath-76353b113",
     email: "Lasithamanikath@gmail.com"
   },
   {
