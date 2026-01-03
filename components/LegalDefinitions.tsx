@@ -39,7 +39,7 @@ const LegalDefinitions: React.FC = () => {
 
             <div className="mt-20 text-center p-10 bg-[#F3EDF7] rounded-[40px] border border-white">
               <p className="text-lg italic text-[#49454F] leading-relaxed font-medium">
-                "Understanding these terms is the first step toward compliance with the <b className="text-[#6750A4]">IT Act 2000</b>. Our course specifically focuses on the inverted pyramid style of learning, giving you the core answers first followed by professional context." 
+                "“We believe every student should grow up as a responsible digital citizen.<p>Our courses make cyber safety, technology, and digital law easy to understand and apply in daily life.”" </p>
                 <br /><br />
                 <span className="not-italic font-extrabold text-[#1C1B1F]">— Adv. Mukul Jha and Team</span>
               </p>
